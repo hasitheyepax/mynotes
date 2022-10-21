@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705757923471",
+    "project_id": "mynotes-hasith-eyepax",
+    "storage_bucket": "mynotes-hasith-eyepax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705757923471:android:4be61f0be3c6bee88548fa",
+        "android_client_info": {
+          "package_name": "com.hasith.flyt.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705757923471-1vl7usnbshm5h28sn7h3756rri7p8eaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfq1mU22bLq933VB4IScENmZLcsMDcNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705757923471-1vl7usnbshm5h28sn7h3756rri7p8eaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
